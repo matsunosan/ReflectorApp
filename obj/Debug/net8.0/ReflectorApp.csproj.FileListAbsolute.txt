@@ -1,0 +1,15 @@
+C:\Users\glory hole\Documents\ReflectorApp\bin\Debug\net8.0\K1.dll
+C:\Users\glory hole\Documents\ReflectorApp\bin\Debug\net8.0\ReflectorApp.exe
+C:\Users\glory hole\Documents\ReflectorApp\bin\Debug\net8.0\ReflectorApp.deps.json
+C:\Users\glory hole\Documents\ReflectorApp\bin\Debug\net8.0\ReflectorApp.runtimeconfig.json
+C:\Users\glory hole\Documents\ReflectorApp\bin\Debug\net8.0\ReflectorApp.dll
+C:\Users\glory hole\Documents\ReflectorApp\bin\Debug\net8.0\ReflectorApp.pdb
+C:\Users\glory hole\Documents\ReflectorApp\obj\Debug\net8.0\ReflectorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glory hole\Documents\ReflectorApp\obj\Debug\net8.0\ReflectorApp.AssemblyInfoInputs.cache
+C:\Users\glory hole\Documents\ReflectorApp\obj\Debug\net8.0\ReflectorApp.AssemblyInfo.cs
+C:\Users\glory hole\Documents\ReflectorApp\obj\Debug\net8.0\ReflectorApp.csproj.CoreCompileInputs.cache
+C:\Users\glory hole\Documents\ReflectorApp\obj\Debug\net8.0\ReflectorApp.dll
+C:\Users\glory hole\Documents\ReflectorApp\obj\Debug\net8.0\refint\ReflectorApp.dll
+C:\Users\glory hole\Documents\ReflectorApp\obj\Debug\net8.0\ReflectorApp.pdb
+C:\Users\glory hole\Documents\ReflectorApp\obj\Debug\net8.0\ReflectorApp.genruntimeconfig.cache
+C:\Users\glory hole\Documents\ReflectorApp\obj\Debug\net8.0\ref\ReflectorApp.dll
